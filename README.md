@@ -12,7 +12,7 @@ As a software developer, I enjoy using my obsessive attention to detail, and my 
 
 That's why I like to make things that make a difference.
 
-<img align="right" alt="PNG" src="https://drive.google.com/file/d/10e-Qrx9qnPqGdoNSpECuL_vZs4mdwNim/view?usp=sharing" width="100" height="218" />
+<img align="right" alt="png" src="https://github.com/SubbuChand1903/SubbuChand1903/blob/master/1708037630649.png?raw=true" width="408" height="318" />
 
 ### Talking about Personal Stuff:
 
