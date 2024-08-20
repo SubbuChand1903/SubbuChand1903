@@ -1,12 +1,10 @@
 
-# Welcome to [Aswin Barath's](https://aswinbarath.me/) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Subramaniam Chandrasekar's] profile!
 
-<a href="https://www.linkedin.com/in/aswin-barath/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/subramaniam-chandrasekar-9a276079/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
 
-
-
-## Glad to see you here!
+## Happy to see you here!
 
 I am a full-stack software developer. I love programming, reading, writing and speaking.
 
