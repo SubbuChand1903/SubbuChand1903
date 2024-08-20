@@ -1,5 +1,5 @@
 
-# Welcome to [Subramaniam Chandrasekar's] profile!
+# Welcome to Subramaniam Chandrasekar's profile!
 
 <a href="https://www.linkedin.com/in/subramaniam-chandrasekar-9a276079/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
@@ -14,9 +14,8 @@ That's why I like to make things that make a difference.
 
 ### Talking about Personal Stuff:
 
-- 👨‍🎓 I'm a **Senior Software Engineering Student**
-- 🔭 I’m currently working on [JU Query](https://github.com/AswinBarath/ju-query) platform
-- 👨‍🏫 I'm the **Community Leader** at [Codecademy JU](https://community.codecademy.com/jain-university-ju/)
+- 👨‍🎓 I'm a **Senior .Net Full Stack Developer**
+- 🔭 I’m currently working on Angular 8, .Net 8 platform
 - 💬 Ask me about anything, I am happy to help
 - ✍ I'm a **Technical blogger** with 10,000+ user reads
 - 🌱 I'm currently learning:
