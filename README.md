@@ -74,7 +74,7 @@ That's why I like to make things that make a difference.
 
 ### 💻 Cloud
 <p>
-    <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/MicrosoftAzure-F05033.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078d7.svg?logo=microsoft-azure&logoColor=white"></a>
 </p>
 
 ---
