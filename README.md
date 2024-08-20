@@ -75,6 +75,13 @@ That's why I like to make things that make a difference.
 ### 💻 Cloud
 <p>
   <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078d7.svg?logo=microsoft-azure&logoColor=white"></a>
+  <a href="#"><img alt="App Service" src="https://img.shields.io/badge/App%20Service-0078d7.svg?logo=app-service&logoColor=white"></a>
+  <a href="#"><img alt="Azure Functions" src="https://img.shields.io/badge/Azure%20Functions-0078d7.svg?logo=azure-functions&logoColor=white"></a>
+  <a href="#"><img alt="APIM" src="https://img.shields.io/badge/APIM-0078d7.svg?logo=apim&logoColor=white"></a>
+  <a href="#"><img alt="Azure Synapse" src="https://img.shields.io/badge/Azure%20Synapse-0078d7.svg?logo=azure-synapse&logoColor=white"></a>
+  <a href="#"><img alt="Logic Apps" src="https://img.shields.io/badge/Logic%20Apps-0078d7.svg?logo=logic-apps&logoColor=white"></a>
+  <a href="#"><img alt="Azure Service Bus" src="https://img.shields.io/badge/Azure%20Service%20Bus-0078d7.svg?logo=azure-service-bus&logoColor=white"></a>
+  <a href="#"><img alt="Azure AD" src="https://img.shields.io/badge/Azure%20AD-0078d7.svg?logo=azure-ad&logoColor=white"></a>
 </p>
 
 ---
