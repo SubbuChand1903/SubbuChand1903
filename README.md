@@ -21,7 +21,7 @@ That's why I like to make things that make a difference.
 - 🌱 I'm currently learning:
   - Gen AI Microsoft Semantic Kernel using .Net 8 platform
 - 📬 How to reach me: [subbu.us925@gmail.com](mailto:subbu.us925@gmail.com)
-- 📝 [Resume]([https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing](https://drive.google.com/file/d/1EHBOLG5TssyyLF761GKEx3daya_hb071/view?usp=drive_link)).
+- 📝 [Resume](https://drive.google.com/file/d/1EHBOLG5TssyyLF761GKEx3daya_hb071/view?usp=sharing).
 - 💪 This is where I write, code and solve problems:
   
 ---
