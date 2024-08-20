@@ -16,13 +16,11 @@ That's why I like to make things that make a difference.
 
 - 👨‍🎓 I'm a **Senior .Net Full Stack Developer**
 - 🔭 I’m currently working on Angular 8, .Net 8 platform
-- 💬 Ask me about anything, I am happy to help
-- ✍ I'm a **Technical blogger** with 10,000+ user reads
 - 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)
+  - Gen AI Microsoft Semantic Kernel using .Net 8 platform
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
 - 👯 Join my [community](https://community.codecademy.com/jain-university-ju/) if you're a tech enthusiast
-- 📬 How to reach me: [aswin2001barath@gmail.com](mailto:aswin2001barath@gmail.com)
+- 📬 How to reach me: [subbu.us925@gmail.com](mailto:subbu.us925@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing).
 - 💪 This is where I write, code and solve problems:
 
