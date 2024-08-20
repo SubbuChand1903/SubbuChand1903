@@ -84,4 +84,15 @@ That's why I like to make things that make a difference.
   <a href="#"><img alt="Azure AD" src="https://img.shields.io/badge/Azure%20AD-0078d7.svg?logo=azure-ad&logoColor=white"></a>
 </p>
 
+### 👨‍💻 Protocols
+<p>
+  <a href="#"><img alt="SOAP" src ="https://img.shields.io/badge/SOAP-4ea94b.svg?logo=soap&logoColor=white"></a>
+  <a href="#"><img alt="SSL" src ="https://img.shields.io/badge/SSL-4ea94b.svg?logo=ssl&logoColor=white"></a>
+  <a href="#"><img alt="FTP" src ="https://img.shields.io/badge/FTP-4ea94b.svg?logo=ftp&logoColor=white"></a>
+  <a href="#"><img alt="TCP/IP" src ="https://img.shields.io/badge/TCP/IP-4ea94b.svg?logo=tcp/ip&logoColor=white"></a>
+  <a href="#"><img alt="HTTP" src="https://img.shields.io/badge/HTTP-0078d7.svg?logo=http&logoColor=white"></a>
+  <a href="#"><img alt="HTTPS" src="https://img.shields.io/badge/HTTPS-0078d7.svg?logo=https&logoColor=white"></a>
+  <a href="#"><img alt="REST" src="https://img.shields.io/badge/REST-0078d7.svg?logo=rest&logoColor=white"></a>
+  <a href="#"><img alt="OData" src="https://img.shields.io/badge/OData-0078d7.svg?logo=rest&logoColor=white"></a>
+</p>
 ---
